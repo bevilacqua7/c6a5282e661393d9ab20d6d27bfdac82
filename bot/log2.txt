@@ -1,0 +1,1569 @@
+
+
+Array
+(
+    [update_id] => 914095655
+    [message] => Array
+        (
+            [message_id] => 467
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980214
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADy6cxGzgQUUbgGMGCLGVvaHsJ6C8ABK9CCJXQoZsWz98BAAEC
+                            [file_size] => 864
+                            [width] => 51
+                            [height] => 90
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADy6cxGzgQUUbgGMGCLGVvaHsJ6C8ABKSHSB4_Vazl0N8BAAEC
+                            [file_size] => 9185
+                            [width] => 180
+                            [height] => 320
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADy6cxGzgQUUbgGMGCLGVvaHsJ6C8ABAj4dbkvbdpP0d8BAAEC
+                            [file_size] => 36120
+                            [width] => 450
+                            [height] => 800
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADy6cxGzgQUUbgGMGCLGVvaHsJ6C8ABIWGYfhTyYPwzt8BAAEC
+                            [file_size] => 54725
+                            [width] => 720
+                            [height] => 1280
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095656
+    [message] => Array
+        (
+            [message_id] => 468
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980251
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => bot_command
+                            [offset] => 0
+                            [length] => 6
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095659
+    [message] => Array
+        (
+            [message_id] => 471
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980432
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => bot_command
+                            [offset] => 0
+                            [length] => 6
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095657
+    [message] => Array
+        (
+            [message_id] => 469
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980281
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => bot_command
+                            [offset] => 0
+                            [length] => 6
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095658
+    [message] => Array
+        (
+            [message_id] => 470
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980313
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADzKcxGzgQUUbN7WKmWErKxHGD3i8ABMrJ-dfUC2vF2nUBAAEC
+                            [file_size] => 1399
+                            [width] => 73
+                            [height] => 90
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADzKcxGzgQUUbN7WKmWErKxHGD3i8ABBuvAuvc5ltg23UBAAEC
+                            [file_size] => 18195
+                            [width] => 260
+                            [height] => 320
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADzKcxGzgQUUbN7WKmWErKxHGD3i8ABGqSwdOlXJ1C2XUBAAEC
+                            [file_size] => 36115
+                            [width] => 504
+                            [height] => 620
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095660
+    [message] => Array
+        (
+            [message_id] => 475
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980480
+            [text] => felipe2
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095661
+    [message] => Array
+        (
+            [message_id] => 477
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980484
+            [text] => 123
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095662
+    [message] => Array
+        (
+            [message_id] => 479
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980517
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABHvp6ziyl-Y_cnIBAAEC
+                            [file_size] => 1142
+                            [width] => 51
+                            [height] => 90
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABLT7BwNR3qbic3IBAAEC
+                            [file_size] => 16563
+                            [width] => 180
+                            [height] => 320
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABK_q_ITTWN1ldHIBAAEC
+                            [file_size] => 71017
+                            [width] => 450
+                            [height] => 800
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABMaX0RsB3RQ_cXIBAAEC
+                            [file_size] => 82109
+                            [width] => 585
+                            [height] => 1040
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095663
+    [message] => Array
+        (
+            [message_id] => 481
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980567
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABHvp6ziyl-Y_cnIBAAEC
+                            [file_size] => 1142
+                            [file_path] => photos/5066848888928970701.jpg
+                            [width] => 51
+                            [height] => 90
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABLT7BwNR3qbic3IBAAEC
+                            [file_size] => 16563
+                            [width] => 180
+                            [height] => 320
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABK_q_ITTWN1ldHIBAAEC
+                            [file_size] => 71017
+                            [width] => 450
+                            [height] => 800
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADzacxGzgQUUbCC7NhlxVo0KCC3i8ABMaX0RsB3RQ_cXIBAAEC
+                            [file_size] => 82109
+                            [file_path] => photos/file_45.jpg
+                            [width] => 585
+                            [height] => 1040
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 914095664
+    [message] => Array
+        (
+            [message_id] => 483
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1497980620
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADzqcxGzgQUUbak_GTuXMFhHAH6C8ABUA4s-Yvxr2c4QEAAQI
+                            [file_size] => 2024
+                            [width] => 86
+                            [height] => 90
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADzqcxGzgQUUbak_GTuXMFhHAH6C8ABO8yVjCVfQ67neEBAAEC
+                            [file_size] => 28718
+                            [width] => 307
+                            [height] => 320
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADzqcxGzgQUUbak_GTuXMFhHAH6C8ABHmrKQEDbzVQm-EBAAEC
+                            [file_size] => 22536
+                            [width] => 310
+                            [height] => 323
+                        )
+
+                )
+
+            [caption] => Foto de Felipe Bevi
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467497996
+    [message] => Array
+        (
+            [message_id] => 485
+            [from] => Array
+                (
+                    [id] => 413088406
+                    [first_name] => Oscar
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 413088406
+                    [first_name] => Oscar
+                    [type] => private
+                )
+
+            [date] => 1499373186
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQAD1KcxG0ud-EZtsvUvizhRgHKF3i8ABF7bmUygsPISl1YBAAEC
+                            [file_size] => 1224
+                            [width] => 51
+                            [height] => 90
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQAD1KcxG0ud-EZtsvUvizhRgHKF3i8ABK7BMSwl1Wq7mFYBAAEC
+                            [file_size] => 16790
+                            [width] => 180
+                            [height] => 320
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQAD1KcxG0ud-EZtsvUvizhRgHKF3i8ABHgqouEvQvCLmVYBAAEC
+                            [file_size] => 65261
+                            [width] => 450
+                            [height] => 800
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQAD1KcxG0ud-EZtsvUvizhRgHKF3i8ABKIxPYNx8OQZllYBAAEC
+                            [file_size] => 104402
+                            [width] => 720
+                            [height] => 1280
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467497997
+    [message] => Array
+        (
+            [message_id] => 486
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305502
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABLbRL70DEd8GWHABAAEC
+                            [file_size] => 549
+                            [width] => 90
+                            [height] => 12
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABHCK0vthdYxCWXABAAEC
+                            [file_size] => 4907
+                            [width] => 320
+                            [height] => 41
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABDUK7vlvDePzWnABAAEC
+                            [file_size] => 24516
+                            [width] => 800
+                            [height] => 102
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABD_Dk0bjYnrxW3ABAAEC
+                            [file_size] => 45421
+                            [width] => 1280
+                            [height] => 164
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467497998
+    [message] => Array
+        (
+            [message_id] => 487
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305503
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABP8MxZbJjXNilXMBAAEC
+                            [file_size] => 525
+                            [width] => 90
+                            [height] => 11
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABNqoyZYi98iYlnMBAAEC
+                            [file_size] => 4072
+                            [width] => 320
+                            [height] => 38
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABDZsoZxs6odll3MBAAEC
+                            [file_size] => 19972
+                            [width] => 800
+                            [height] => 94
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABPMZ4dmW_kcblHMBAAEC
+                            [file_size] => 36165
+                            [width] => 1280
+                            [height] => 151
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498002
+    [message] => Array
+        (
+            [message_id] => 491
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305506
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADuacxG9lGYEftJ_PtzcgAATBfOO8vAASz_hhMCTnyITh0AQABAg
+                            [file_size] => 543
+                            [width] => 90
+                            [height] => 12
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADuacxG9lGYEftJ_PtzcgAATBfOO8vAAQUwfrfopYzyTl0AQABAg
+                            [file_size] => 5661
+                            [width] => 320
+                            [height] => 42
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADuacxG9lGYEftJ_PtzcgAATBfOO8vAATRvlbLOqsxNzt0AQABAg
+                            [file_size] => 23846
+                            [width] => 800
+                            [height] => 105
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADuacxG9lGYEftJ_PtzcgAATBfOO8vAARv8iO3L8fiRTp0AQABAg
+                            [file_size] => 41256
+                            [width] => 1280
+                            [height] => 168
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498004
+    [message] => Array
+        (
+            [message_id] => 493
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305507
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADvKcxG9lGYEd-oCR_mULvm7ej3i8ABCYDdxdiYAVt92kBAAEC
+                            [file_size] => 485
+                            [width] => 90
+                            [height] => 10
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADvKcxG9lGYEd-oCR_mULvm7ej3i8ABI-f0eWmdMbb-GkBAAEC
+                            [file_size] => 3870
+                            [width] => 320
+                            [height] => 37
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADvKcxG9lGYEd-oCR_mULvm7ej3i8ABBuiSX6o5lHX-WkBAAEC
+                            [file_size] => 19787
+                            [width] => 800
+                            [height] => 92
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADvKcxG9lGYEd-oCR_mULvm7ej3i8ABM_MdOAQWaX49mkBAAEC
+                            [file_size] => 34999
+                            [width] => 1280
+                            [height] => 147
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498000
+    [message] => Array
+        (
+            [message_id] => 489
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305505
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABK4OXV-zjzdgom0BAAEC
+                            [file_size] => 543
+                            [width] => 90
+                            [height] => 11
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABPdfOanYmcZwo20BAAEC
+                            [file_size] => 5071
+                            [width] => 320
+                            [height] => 40
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABMTLD1z6-7UypG0BAAEC
+                            [file_size] => 25164
+                            [width] => 800
+                            [height] => 100
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABFAP7-97PFuOoW0BAAEC
+                            [file_size] => 43856
+                            [width] => 1280
+                            [height] => 160
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498003
+    [message] => Array
+        (
+            [message_id] => 492
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305507
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADu6cxG9lGYEd1PpPLk3n4uSyg3i8ABBeoaCTK3ZR6rG0BAAEC
+                            [file_size] => 556
+                            [width] => 90
+                            [height] => 12
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADu6cxG9lGYEd1PpPLk3n4uSyg3i8ABLCZ5V4YEH3irm0BAAEC
+                            [file_size] => 5453
+                            [width] => 320
+                            [height] => 41
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADu6cxG9lGYEd1PpPLk3n4uSyg3i8ABNQhhsulIkrtr20BAAEC
+                            [file_size] => 25385
+                            [width] => 800
+                            [height] => 102
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADu6cxG9lGYEd1PpPLk3n4uSyg3i8ABKagqkcJaA8TrW0BAAEC
+                            [file_size] => 46025
+                            [width] => 1280
+                            [height] => 164
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498001
+    [message] => Array
+        (
+            [message_id] => 490
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305506
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADuqcxG9lGYEdzfsLqiE1aj8t83i8ABORSg8CydckUYMwBAAEC
+                            [file_size] => 551
+                            [width] => 90
+                            [height] => 12
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADuqcxG9lGYEdzfsLqiE1aj8t83i8ABKy7dZeNym8nX8wBAAEC
+                            [file_size] => 5252
+                            [width] => 320
+                            [height] => 43
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADuqcxG9lGYEdzfsLqiE1aj8t83i8ABIwAAWM1euVigGHMAQABAg
+                            [file_size] => 24325
+                            [width] => 800
+                            [height] => 107
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADuqcxG9lGYEdzfsLqiE1aj8t83i8ABD10xgM0zv2qXswBAAEC
+                            [file_size] => 43402
+                            [width] => 1280
+                            [height] => 171
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467497999
+    [message] => Array
+        (
+            [message_id] => 488
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305504
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADt6cxG9lGYEf8o1CgvE_V2oYG6C8ABG-QpBMOvcj8cyoCAAEC
+                            [file_size] => 528
+                            [width] => 90
+                            [height] => 11
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADt6cxG9lGYEf8o1CgvE_V2oYG6C8ABKnquMUdz-KYdCoCAAEC
+                            [file_size] => 4957
+                            [width] => 320
+                            [height] => 40
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADt6cxG9lGYEf8o1CgvE_V2oYG6C8ABFs8IsbUgrKtdSoCAAEC
+                            [file_size] => 25292
+                            [width] => 800
+                            [height] => 99
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADt6cxG9lGYEf8o1CgvE_V2oYG6C8ABJTLmGsCFRMbcioCAAEC
+                            [file_size] => 44032
+                            [width] => 1280
+                            [height] => 158
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498005
+    [message] => Array
+        (
+            [message_id] => 502
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305574
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABK4OXV-zjzdgom0BAAEC
+                            [file_size] => 543
+                            [file_path] => photos/5143188672735193016.jpg
+                            [width] => 90
+                            [height] => 11
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABPdfOanYmcZwo20BAAEC
+                            [file_size] => 5071
+                            [width] => 320
+                            [height] => 40
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABMTLD1z6-7UypG0BAAEC
+                            [file_size] => 25164
+                            [width] => 800
+                            [height] => 100
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADuKcxG9lGYEd0wdm-U947W9eS3i8ABFAP7-97PFuOoW0BAAEC
+                            [file_size] => 43856
+                            [file_path] => photos/file_51.jpg
+                            [width] => 1280
+                            [height] => 160
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498006
+    [message] => Array
+        (
+            [message_id] => 503
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305575
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABLbRL70DEd8GWHABAAEC
+                            [file_size] => 549
+                            [file_path] => photos/5143188672735193013.jpg
+                            [width] => 90
+                            [height] => 12
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABHCK0vthdYxCWXABAAEC
+                            [file_size] => 4907
+                            [width] => 320
+                            [height] => 41
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABDUK7vlvDePzWnABAAEC
+                            [file_size] => 24516
+                            [width] => 800
+                            [height] => 102
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADtacxG9lGYEckDLtuGPem62Si3i8ABD_Dk0bjYnrxW3ABAAEC
+                            [file_size] => 45421
+                            [file_path] => photos/file_47.jpg
+                            [width] => 1280
+                            [height] => 164
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498007
+    [message] => Array
+        (
+            [message_id] => 504
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305575
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABP8MxZbJjXNilXMBAAEC
+                            [file_size] => 525
+                            [file_path] => photos/5143188672735193014.jpg
+                            [width] => 90
+                            [height] => 11
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABNqoyZYi98iYlnMBAAEC
+                            [file_size] => 4072
+                            [width] => 320
+                            [height] => 38
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABDZsoZxs6odll3MBAAEC
+                            [file_size] => 19972
+                            [width] => 800
+                            [height] => 94
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADtqcxG9lGYEcJIKBz3tpJlBI37y8ABPMZ4dmW_kcblHMBAAEC
+                            [file_size] => 36165
+                            [file_path] => photos/file_48.jpg
+                            [width] => 1280
+                            [height] => 151
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498008
+    [message] => Array
+        (
+            [message_id] => 508
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1500305729
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADr6cxG3cJaUePq-21wl6WZsul3i8ABI63FaW3SGTmyG4BAAEC
+                            [file_size] => 507
+                            [width] => 90
+                            [height] => 11
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADr6cxG3cJaUePq-21wl6WZsul3i8ABKfthHAopRhyyW4BAAEC
+                            [file_size] => 4453
+                            [width] => 320
+                            [height] => 40
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADr6cxG3cJaUePq-21wl6WZsul3i8ABBgYyEWRL6ooym4BAAEC
+                            [file_size] => 22744
+                            [width] => 800
+                            [height] => 99
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADr6cxG3cJaUePq-21wl6WZsul3i8ABEC2oB5T4vnex24BAAEC
+                            [file_size] => 40112
+                            [width] => 1280
+                            [height] => 158
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498009
+    [message] => Array
+        (
+            [message_id] => 510
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1501027576
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADwqcxGy-awEcq05susNc7TMKf3i8ABCjzE6AhIR28yYQBAAEC
+                            [file_size] => 1242
+                            [width] => 51
+                            [height] => 90
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADwqcxGy-awEcq05susNc7TMKf3i8ABH-wpRwMGUWmyoQBAAEC
+                            [file_size] => 17774
+                            [width] => 180
+                            [height] => 320
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADwqcxGy-awEcq05susNc7TMKf3i8ABHXGouYvSosoyIQBAAEC
+                            [file_size] => 64026
+                            [width] => 450
+                            [height] => 800
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADwqcxGy-awEcq05susNc7TMKf3i8ABPyDnOg099sTx4QBAAEC
+                            [file_size] => 100367
+                            [width] => 720
+                            [height] => 1280
+                        )
+
+                )
+
+            [caption] => Screenshot (25 de jul de 2017 21:05:51)
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498010
+    [message] => Array
+        (
+            [message_id] => 512
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1501773304
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgADAQADxacxG44vGESyEvnGSgP8ta9e9y8ABJW1huWHorSRcUQBAAEC
+                            [file_size] => 865
+                            [width] => 90
+                            [height] => 51
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgADAQADxacxG44vGESyEvnGSgP8ta9e9y8ABCrL87RsA3NPckQBAAEC
+                            [file_size] => 8241
+                            [width] => 320
+                            [height] => 180
+                        )
+
+                    [2] => Array
+                        (
+                            [file_id] => AgADAQADxacxG44vGESyEvnGSgP8ta9e9y8ABPbrUN07A44kc0QBAAEC
+                            [file_size] => 42078
+                            [width] => 800
+                            [height] => 450
+                        )
+
+                    [3] => Array
+                        (
+                            [file_id] => AgADAQADxacxG44vGESyEvnGSgP8ta9e9y8ABGYCX_HzmCt4cEQBAAEC
+                            [file_size] => 71028
+                            [width] => 1280
+                            [height] => 720
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 467498011
+    [message] => Array
+        (
+            [message_id] => 514
+            [from] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [language_code] => pt-BR
+                )
+
+            [chat] => Array
+                (
+                    [id] => 83327461
+                    [first_name] => Felipe
+                    [last_name] => Bevi
+                    [username] => felipebevi
+                    [type] => private
+                )
+
+            [date] => 1501783248
+            [text] => Nova Entrega
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 964235675
+    [message] => Array
+        (
+            [message_id] => 516
+            [from] => Array
+                (
+                    [id] => 370336002
+                    [is_bot] => 
+                    [first_name] => Carlos
+                    [last_name] => Alberto
+                )
+
+            [chat] => Array
+                (
+                    [id] => 370336002
+                    [first_name] => Carlos
+                    [last_name] => Alberto
+                    [type] => private
+                )
+
+            [date] => 1506800765
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)

@@ -1,0 +1,5 @@
+[16-Jun-2017 10:20:50 America/Sao_Paulo] PHP Fatal error:  Call to a member function set_query_str() on null in /home/jaentreguei/public_html/portaltelegram/application/controllers/Cliente.php on line 67
+[16-Jun-2017 10:21:11 America/Sao_Paulo] PHP Fatal error:  Call to a member function set_query_str() on null in /home/jaentreguei/public_html/portaltelegram/application/controllers/Cliente.php on line 67
+[16-Jun-2017 10:21:12 America/Sao_Paulo] PHP Fatal error:  Call to a member function set_query_str() on null in /home/jaentreguei/public_html/portaltelegram/application/controllers/Cliente.php on line 67
+[16-Jun-2017 10:21:33 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Grocery_CRUD::set_query_str() in /home/jaentreguei/public_html/portaltelegram/application/controllers/Cliente.php on line 67
+[16-Jun-2017 10:30:42 America/Sao_Paulo] PHP Fatal error:  Class 'grocery_CRUD' not found in /home/jaentreguei/public_html/portaltelegram/application/controllers/Cliente.php on line 65

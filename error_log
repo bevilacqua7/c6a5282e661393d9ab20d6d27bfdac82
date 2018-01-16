@@ -1,0 +1,1 @@
+[16-Jun-2017 10:42:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'edit_field_callback_1' (T_STRING), expecting variable (T_VARIABLE) in /home/jaentreguei/public_html/portaltelegram/application/controllers/Cliente.php on line 80

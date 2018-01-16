@@ -1,0 +1,106 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "JáEntreguei",
+    "scope": "/Mobile",
+    "display": "browser",
+    "start_url": "https://portaltelegram.jaentreguei.com.br/Mobile",
+    "short_name": "JáEntreguei",
+    "theme_color": "#ffffff",
+    "description": "Aplicativo para o sistema integrado JáEntreguei.com.br",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/1658a509-23af-0a2a-c0d6-ba8c32872fee.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/24f2f6fd-1377-8a20-3acc-972bf69acbc4.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8b9b3a53-47c2-238a-b932-ef02aa1b160d.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/34171b2e-f6dd-7fe6-4dcc-29185dabcf02.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3cdcc73e-6a60-c658-a7c1-e077a6689de7.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a51df91f-f06a-87d5-0ba5-37f073ee8469.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7622a984-62fd-d346-6bcd-da644953ece0.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/73295485-28bd-c780-2c26-9e0501ba261e.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/cb1ad8e5-bd6f-c86e-0619-86e19b611c53.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8b51b8bd-c077-4b2a-cb73-b073005832b5.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ba146b34-f5fb-dbd9-ea03-9e101fb9e41c.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1bbd28d2-b5ec-60ac-be82-8e29b08ed507.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/79587a56-9c96-828c-2836-0484ab2b7654.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/65cbc72a-3994-1112-316b-f3490df3a443.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e884a10a-2979-4b89-a1a4-c79748267e1f.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/08afc7f2-d049-d5e7-044e-c8182b77d0ef.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f220a937-eb2c-f271-0eba-beb3b1937b38.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
